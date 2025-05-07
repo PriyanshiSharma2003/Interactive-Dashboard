@@ -1,5 +1,0 @@
-bokeh
-hvplot==0.8.3
-holoviews==1.16.0
-pandas==2.0.3
-panel==1.0.4
